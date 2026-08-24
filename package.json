@@ -1,8 +1,0 @@
-{
-  "name": "atlas-ai-assistant",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "mongodb": "^6.10.0"
-  }
-}
